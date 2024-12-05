@@ -1,0 +1,6 @@
+.idea/
+.ijwb/
+bazel-bin
+bazel-k2-intellij-bazel-bug
+bazel-out
+bazel-testlogs

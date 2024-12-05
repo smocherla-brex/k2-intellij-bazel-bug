@@ -1,0 +1,7 @@
+directories:
+  .
+
+java_language_level: 17
+
+additional_languages:
+  kotlin
